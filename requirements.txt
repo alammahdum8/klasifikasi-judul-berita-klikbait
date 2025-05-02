@@ -1,0 +1,8 @@
+streamlit as st
+pickle
+numpy
+tensorflow
+pandas
+re
+time
+tensorflow.keras.preprocessing.sequence
