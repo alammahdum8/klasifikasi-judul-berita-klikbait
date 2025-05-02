@@ -8,3 +8,4 @@ time
 scikit-learn
 gensim
 matplotlib
+python==3.5
